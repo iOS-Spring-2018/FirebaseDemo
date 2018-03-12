@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>827028570527-1c5mie2mq34r6a3b83spd4umk9bvoroj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827028570527-1c5mie2mq34r6a3b83spd4umk9bvoroj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxkfhbNEUbnxPrEh_VfpO5OUTbJJHmuCg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827028570527</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eikholm.FirebaseDemo</string>
+	<key>PROJECT_ID</key>
+	<string>jonsawsomeapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jonsawsomeapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827028570527:ios:801ea0798ec668aa</string>
+	<key>DATABASE_URL</key>
+	<string>https://jonsawsomeapp.firebaseio.com</string>
+</dict>
+</plist>
